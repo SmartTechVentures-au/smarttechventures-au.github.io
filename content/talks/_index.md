@@ -11,6 +11,8 @@ cover:
   alt: "Past Talks"
   relative: true
 ---
+<img width="352" height="251" alt="Chris - Global Azure Day" src="https://github.com/user-attachments/assets/09de0a44-c8af-47f0-8a6e-14e13654fbd4" >
+---
 
 ## Talks
 
@@ -22,3 +24,4 @@ Selected talks and workshops on Azure, integration, machine learning and deliver
 - [Why Agile?](https://blog.mckelt.com/articles/posts/why-agile/)
 
 <img width="497" height="833" alt="Chris - Event Driven Architecture talk" src="https://github.com/user-attachments/assets/ee55c6bd-7785-4417-99fa-6790a479af20" />
+
