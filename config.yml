@@ -10,6 +10,13 @@ pagination:
 taxonomies:
   tag: tags
 
+# Required by PaperMod's search: builds /index.json, the Fuse.js search index.
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 menu:
   main:
     - name: Articles
